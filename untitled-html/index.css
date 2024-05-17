@@ -1,0 +1,338 @@
+.heropage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.heropage-heropage {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.heropage-ellipse1 {
+  top: 196px;
+  left: 791px;
+  width: 631px;
+  height: 631px;
+  position: absolute;
+}
+.heropage-image1removebgpreview1 {
+  top: 313px;
+  left: 567px;
+  width: 821px;
+  height: 513px;
+  position: absolute;
+}
+.heropage-text {
+  top: 403px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 85px;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-text02 {
+  top: 355px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-image2removebgpreview1 {
+  top: 48px;
+  left: 122px;
+  width: 132px;
+  height: 66px;
+  position: absolute;
+}
+.heropage-contact {
+  gap: 10px;
+  top: 538px;
+  left: 115px;
+  width: 144px;
+  height: 50px;
+  display: flex;
+  padding: 13px 23px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: rgba(255, 163, 56, 1);
+}
+.heropage-text04 {
+  top: 13px;
+  left: 5px;
+  color: rgba(0, 0, 0, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-about {
+  gap: 10px;
+  top: 538px;
+  left: 275px;
+  width: 144px;
+  height: 50px;
+  display: flex;
+  padding: 13px 23px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50px;
+  justify-content: center;
+}
+.heropage-text06 {
+  top: 13px;
+  left: 5px;
+  color: rgba(0, 0, 0, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-home {
+  top: 66px;
+  left: 670px;
+  width: 76px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.heropage-text10 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-aboutnav {
+  top: 66px;
+  left: 793px;
+  width: 76px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.heropage-text12 {
+  left: -6px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-works {
+  top: 66px;
+  left: 1096px;
+  width: 76px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.heropage-text14 {
+  left: -39px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-contactnav {
+  top: 66px;
+  left: 1258px;
+  width: 76px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.heropage-text16 {
+  left: -24px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-image9removebgpreview1 {
+  top: 691px;
+  left: 127px;
+  width: 63px;
+  height: 52px;
+  position: absolute;
+}
+.heropage-image101 {
+  top: 785px;
+  left: 132px;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+}
+.heropage-image11removebgpreview1 {
+  top: 869px;
+  left: 122px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+}
+.heropage-next {
+  gap: 10px;
+  top: 847px;
+  left: 1317px;
+  width: 64px;
+  height: 62px;
+  display: flex;
+  padding: 20px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 100px;
+  flex-direction: column;
+  justify-content: center;
+}
+.heropage-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  font-size: 35px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-back {
+  gap: 10px;
+  top: 847px;
+  left: 1229px;
+  width: 64px;
+  height: 62px;
+  display: flex;
+  padding: 20px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 100px;
+  flex-direction: column;
+  justify-content: center;
+}
+.heropage-text19 {
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  font-size: 35px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.heropage-features {
+  top: 66px;
+  left: 934px;
+  width: 76px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.heropage-text20 {
+  left: -26px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
